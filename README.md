@@ -105,7 +105,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rable-akh/rable-akh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rable-akh/rable-akh/output/snake-dark.svg" alt="Snake animation" />
 
 ###
 
