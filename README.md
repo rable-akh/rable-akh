@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Aung Kyaw Htay<br><br>- 🔭 I’m working as a team lead.<br>- 📚 I'm currently learning Rust, Software Architecture<br>- ⚡ In my free time I listen to music, watch movies, or think about creating products.</p>
+<p align="left">I'm Aung Kyaw Htay<br><br>- 🔭 I’m working as a team lead.<br>- 📚 I'm currently learning Data, Software Architecture<br>- ⚡ In my free time I listen to music, watch movies, or think about creating products.</p>
 
 ###
 
